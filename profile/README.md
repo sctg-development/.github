@@ -19,7 +19,7 @@ At SCTG Development, we believe in harnessing the power of modern technologies t
 
 ### Technologies We Use
 
-- **AI Development**: Leveraging libraries like `ai-typescript` and `sentencepiece-js` to build cutting-edge AI-powered applications.
+- **AI Development**: Leveraging libraries like `ai-typescript` and `sentencepiece-js` to build cutting-edge AI-powered applications like `ai-outlook` an Outlook add-in.
 - **Rust, Go, C, C++, Typescript, Java, Python, JavaScript**: These languages form the backbone of our development work, chosen for their performance, versatility, and scalability.
 - **Docker & Kubernetes**: Our infrastructure revolves around containerized deployments using Docker, and we manage our own Kubernetes cluster to ensure scalability and high availability.
 - **Web Technologies**: From backend to frontend, we build responsive, secure, and efficient web applications using modern frameworks and libraries.
